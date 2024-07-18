@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900 */
+
+/* h1 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  color: white;
+} */
+
+/* h1 {
+    font-family: montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: white;
+} */
+
+/* h1 {
+    font-family: the-seasons, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    color: white;
+} */
+
+body {
+    /* background-image: url(bg.png);
+    background-position: center;
+    background-size: cover; */
+    background-color: ;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.heading {
+    height: 100svh;
+    display: flex;
+    flex-direction: column;
+}
